@@ -19,7 +19,11 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
+/**
+ *
+ * @author Administrator
+ *
+ */
 public class PcMain {
 	public static String url="https://book.douban.com";
 	public static void main(String[] args) throws IOException {	
